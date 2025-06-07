@@ -1,0 +1,3 @@
+com\example\task\messaging\config\RabbitMQConfig.class
+com\example\task\messaging\consumer\HistorialConsumer.class
+com\example\task\messaging\producer\HistorialProducer.class

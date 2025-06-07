@@ -1,0 +1,3 @@
+com\example\task\api\TaskApiApplication.class
+com\example\task\api\service\TareaService.class
+com\example\task\api\controller\TareaController.class

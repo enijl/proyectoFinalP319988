@@ -1,0 +1,8 @@
+com\example\task\core\datastructure\Arbol.class
+com\example\task\core\model\Usuario.class
+com\example\task\core\datastructure\Cola.class
+com\example\task\core\datastructure\Arbol$Nodo.class
+com\example\task\core\datastructure\Pila.class
+com\example\task\core\model\Historial.class
+com\example\task\core\model\Tarea.class
+com\example\task\core\datastructure\Cola$Nodo.class
